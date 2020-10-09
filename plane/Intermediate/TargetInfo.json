@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "plane",
+			"Path": "C:\\Users\\hashm\\OneDrive\\Documents\\GitHub\\plane\\plane\\Source\\plane.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "planeEditor",
+			"Path": "C:\\Users\\hashm\\OneDrive\\Documents\\GitHub\\plane\\plane\\Source\\planeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Intermediate\Build\Win64\UE4Editor\Development\plane\Definitions.plane.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Source\plane/planeGameMode.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Intermediate\Build\Win64\UE4Editor\Inc\plane\planeGameMode.generated.h
