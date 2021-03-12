@@ -1,3 +1,0 @@
-C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Intermediate\Build\Win64\UE4Editor\Development\plane\Definitions.plane.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

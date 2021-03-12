@@ -1,2 +1,0 @@
-C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Intermediate\Build\Win64\UE4Editor\Development\plane\Definitions.plane.h
-C:\Users\hashm\OneDrive\Documents\GitHub\plane\plane\Source\plane\plane.h
